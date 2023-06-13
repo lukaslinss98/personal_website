@@ -6,6 +6,7 @@ asttokens==2.2.1
 astunparse==1.6.3
 backcall==0.2.0
 beautifulsoup4==4.12.2
+blinker==1.6.2
 blis==0.7.9
 bs4==0.0.1
 cachetools==5.3.0
@@ -28,6 +29,7 @@ en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en
 et-xmlfile==1.1.0
 executing==1.2.0
 filelock==3.12.0
+Flask==2.3.2
 flatbuffers==23.5.9
 fonttools==4.39.3
 fsspec==2023.4.0
@@ -47,6 +49,7 @@ importlib-resources==5.12.0
 ipykernel==6.22.0
 ipython==8.12.0
 isort==5.7.0
+itsdangerous==2.1.2
 jedi==0.18.2
 Jinja2==3.1.2
 joblib==1.2.0
